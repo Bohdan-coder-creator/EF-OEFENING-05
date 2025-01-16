@@ -13,7 +13,7 @@ Bij het opstarten van de applicatie krijg je volgend venster.
 De witruimte in het midden van het venster is gereserveerd voor afbeeldingen.  Onderaan in het venster onderscheiden we:
 
 * punten: het aantal bij één spin
-
+мне нужно создать небольшое графическое приложение для автомата. при нажатии на кнопку должны появляться три случайные картинки. на языке пайтон. подскажи, как мне сделать поля для трех изображений размером 200 на 200 и с отступом 30 по всему периметру?
 * score: het totaal aantal behaalde punten
 
 * beurten: het aantal beurten
